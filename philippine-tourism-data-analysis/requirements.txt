@@ -1,1 +1,8 @@
-# Python dependencies for this project 
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+pdfplumber
+openpyxl
